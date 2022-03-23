@@ -4,7 +4,7 @@
 
 ### SKIDS
 
-- [First](https://github.com/akifrzayev09/discordphishing)
+- [First](https://github.com/discordloginphish/akifsphish)
 
 # SETUP(Debian 10)
 
