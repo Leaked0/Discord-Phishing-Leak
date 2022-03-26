@@ -4,7 +4,7 @@
 
 ### SKIDS
 
-- [First](https://github.com/discordloginphish/akifsphish) (+ they sell it in a Discord Server for 30€)
+- [First](https://github.com/akifphishing/discordloginphish) (+ they sell it in a Discord Server for 30€)
 
 # SETUP(Debian 10)
 
